@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "276693325189",
+    "project_id": "vortex-g",
+    "storage_bucket": "vortex-g.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276693325189:android:3168bc6cbaf842061260ec",
+        "android_client_info": {
+          "package_name": "com.vortexg.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcO8qLUIsaM_oO3-Hr5f8aFVbi_Ah5RtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
